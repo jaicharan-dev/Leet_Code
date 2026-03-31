@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/jaicharan-dev/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0355-design-twitter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0355-design-twitter) |
 ## Linked List
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0355-design-twitter) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/jaicharan-dev/Leet_Code/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/jaicharan-dev/Leet_Code/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->

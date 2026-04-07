@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jaicharan-dev/Leet_Code/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/jaicharan-dev/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0239-sliding-window-maximum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0239-sliding-window-maximum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->

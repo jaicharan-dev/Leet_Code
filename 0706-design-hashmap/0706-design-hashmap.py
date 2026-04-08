@@ -29,9 +29,9 @@ class MyHashMap:
     def remove(self, key: int) -> None:
         index = self._hash(key)
         bucket = self.buckets[index]
-        for i, (k,v) in enumerate(bucket):
+        for k, v in bucket:
             if k == key:
-                del bucket[i]
+                bucket.remove((k, v))
                 return
                     
 

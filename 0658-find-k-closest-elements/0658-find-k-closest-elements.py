@@ -4,12 +4,12 @@ class Solution:
         right = len(arr)-1
 
         while (right-left+1) > k:
-            dist_left = abs(x - arr[left])
-            dist_right = abs(x - arr[right])
+            dist_left = abs(arr[left]-x)
+            dist_right = abs(arr[right]-x)
 
             if dist_left > dist_right:
                 left += 1
             else:
                 right -= 1
-        
+            
         return arr[left:right+1]

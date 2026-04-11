@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jaicharan-dev/Leet_Code/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/jaicharan-dev/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0355-design-twitter) |
 | [0705-design-hashset](https://github.com/jaicharan-dev/Leet_Code/tree/master/0705-design-hashset) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaicharan-dev/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -186,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/jaicharan-dev/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

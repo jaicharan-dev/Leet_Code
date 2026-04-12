@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/jaicharan-dev/Leet_Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jaicharan-dev/Leet_Code/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
@@ -137,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jaicharan-dev/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jaicharan-dev/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaicharan-dev/Leet_Code/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0169-majority-element) |
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
+| [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -193,4 +198,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jaicharan-dev/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaicharan-dev/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/jaicharan-dev/Leet_Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jaicharan-dev/Leet_Code/tree/master/0706-design-hashmap) |
+| [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Queue
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jaicharan-dev/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaicharan-dev/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
 ## Bucket Sort
 |  |
 | ------- |

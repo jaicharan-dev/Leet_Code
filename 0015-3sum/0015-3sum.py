@@ -19,12 +19,8 @@ class Solution:
                         right -= 1 
                     right -= 1
                 elif value < target:
-                    while left < len(nums)-1 and nums[left] == nums[left + 1]:
-                        left += 1
                     left += 1
                 else:
-                    while right > 0 and nums[right] == nums[right - 1]:
-                        right -= 1
                     right -= 1
         return res
 

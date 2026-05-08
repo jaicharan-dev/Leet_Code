@@ -11,15 +11,14 @@ class Solution:
                 if val == '.':
                     continue
                 
-                square_idx = (r//3) * 3 + (c//3)
-
-                if (val in rows[r] or
-                    val in cols[c] or
-                    val in squares[square_idx]):
+                square_index = (r//3) * 3 + (c//3)
+                
+                if (val in rows[r] or val in cols[c] or val in squares[square_index]):
                     return False
                 
-                rows[r].add(val)
-                cols[c].add(val)
-                squares[square_idx].add(val)
-        
-        return True
+                rows[r].add(val) 
+                cols[c].add(val) 
+                squares[square_index].add(val)
+
+        return True 
+

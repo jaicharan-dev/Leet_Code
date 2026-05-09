@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaicharan-dev/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0229-majority-element-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/jaicharan-dev/Leet_Code/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaicharan-dev/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

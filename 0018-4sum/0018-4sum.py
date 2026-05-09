@@ -12,15 +12,16 @@ class Solution:
                 l = j+1
                 r = n-1
                 while l < r:
-                    if nums[i] + nums[j] + nums[l] + nums[r] == target:
+                    curr = nums[i] + nums[j] + nums[l] + nums[r]
+                    if curr == target:
                         res.append([nums[i], nums[j], nums[l], nums[r]]) 
-                        while l < n-1 and nums[l] == nums[l+1]:
+                        while l < r and nums[l] == nums[l+1]:
                             l += 1
-                        l += 1
-                        while r > 0 and nums[r] == nums[r-1]:
+                        while l < r and nums[r] == nums[r-1]:
                             r -= 1
+                        l += 1
                         r -= 1
-                    elif nums[i] + nums[j] + nums[l] + nums[r] < target:
+                    elif curr < target:
                         l += 1
                     else:
                         r -= 1

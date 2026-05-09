@@ -12,7 +12,6 @@ class Solution:
             right -= 1
 
             if left <= right and space_remaining >= people[left]:
-                space_remaining -= people[left]
                 left += 1
         
         return boats 

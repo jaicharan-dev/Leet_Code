@@ -4,11 +4,15 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        k1 = k % n 
-        left = nums[n-k1:]
-        right = nums[:n-k1]
+        self.reverse(nums, 0, n-1)
+        k = k % n
+        self.reverse(nums, 0, k-1)
+        self.reverse(nums, k, n-1)
+        
+    def reverse(self, nums, left, right):
+        while left < right:
+            nums[left], nums[right] = nums[right], nums[left]
+            left += 1
+            right -= 1
 
-        nums1 = left + right
-        for i in range(len(nums)):
-            nums[i] = nums1[i]
-        return nums
+        

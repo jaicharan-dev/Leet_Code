@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaicharan-dev/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/jaicharan-dev/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/jaicharan-dev/Leet_Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jaicharan-dev/Leet_Code/tree/master/0706-design-hashmap) |
 ## Linked List
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaicharan-dev/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
 | [1768-merge-strings-alternately](https://github.com/jaicharan-dev/Leet_Code/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaicharan-dev/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaicharan-dev/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/jaicharan-dev/Leet_Code/tree/master/0881-boats-to-save-people) |

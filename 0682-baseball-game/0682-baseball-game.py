@@ -3,12 +3,16 @@ class Solution:
         stack = []
 
         for operation in operations:
-            if operation == "+":
-                stack.append(stack[-1] + stack[-2])
-            elif operation == "D":
-                stack.append(2*stack[-1])
-            elif operation == "C":
+            if operation == "C":
                 stack.pop()
+            
+            elif operation == "D":
+                stack.append(int(stack[-1]) * 2)
+                
+            elif operation == "+":
+                stack.append(int(stack[-1]) + int(stack[-2]))
+
             else:
                 stack.append(int(operation))
+
         return sum(stack)

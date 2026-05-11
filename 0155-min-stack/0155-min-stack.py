@@ -6,22 +6,16 @@ class MinStack:
 
     def push(self, val: int) -> None:
         self.stack.append(val)
-        
-        temp_stack = []
-        while self.min_stack and self.min_stack[-1] < val:
-            temp_stack.append(self.min_stack.pop())
-        self.min_stack.append(val)
-        while temp_stack:
-            self.min_stack.append(temp_stack.pop())
-    
+
+        if not self.min_stack:
+            self.min_stack.append(val)
+        else:
+            current_min = min(self.min_stack[-1], val)
+            self.min_stack.append(current_min)
+
     def pop(self) -> None:
-        target = self.stack.pop()
-        temp_stack = []
-        while self.min_stack[-1] < target:
-            temp_stack.append(self.min_stack.pop())
+        self.stack.pop()
         self.min_stack.pop()
-        while temp_stack:
-            self.min_stack.append(temp_stack.pop())
 
     def top(self) -> int:
         return self.stack[-1]

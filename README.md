@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+| [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
 ## String
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/jaicharan-dev/Leet_Code/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/jaicharan-dev/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+| [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
 | [1929-concatenation-of-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/jaicharan-dev/Leet_Code/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/jaicharan-dev/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+| [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
 ## Counting
 |  |
 | ------- |

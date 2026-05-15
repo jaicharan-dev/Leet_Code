@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
 ## String
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/jaicharan-dev/Leet_Code/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/jaicharan-dev/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
 | [1929-concatenation-of-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Queue
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Trie
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/jaicharan-dev/Leet_Code/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/jaicharan-dev/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+| [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
 ## Counting
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/jaicharan-dev/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jaicharan-dev/Leet_Code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/jaicharan-dev/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
+| [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 ## Stack
 |  |
 | ------- |

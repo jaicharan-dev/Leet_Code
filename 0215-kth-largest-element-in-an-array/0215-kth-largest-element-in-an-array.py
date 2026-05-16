@@ -6,8 +6,4 @@ class Solution:
                 heapq.heappush(minHeap, num)
             else:
                 heapq.heappushpop(minHeap, num)
-        
         return minHeap[0]
-
-
-            

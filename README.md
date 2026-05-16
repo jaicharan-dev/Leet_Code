@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jaicharan-dev/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/jaicharan-dev/Leet_Code/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/jaicharan-dev/Leet_Code/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/jaicharan-dev/Leet_Code/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/jaicharan-dev/Leet_Code/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |

@@ -3,10 +3,10 @@ class Solution:
         maxHeap = []
         for x, y in points:
             dist = x**2 + y**2
-            heapq.heappush(maxHeap, (-dist,x,y))
-
-            if len(maxHeap) > k:
-                heapq.heappop(maxHeap)
+            if len(maxHeap) < k:
+                heapq.heappush(maxHeap, (-dist,x,y))
+            else:
+                heapq.heappushpop(maxHeap, (-dist,x,y))
         
         return [[x,y] for dist, x, y in maxHeap]
 

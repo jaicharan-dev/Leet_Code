@@ -120,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0100-same-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/jaicharan-dev/Leet_Code/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/jaicharan-dev/Leet_Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jaicharan-dev/Leet_Code/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
@@ -369,10 +372,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jaicharan-dev/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jaicharan-dev/Leet_Code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
 | ------- |

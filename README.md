@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/jaicharan-dev/Leet_Code/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0572-subtree-of-another-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/jaicharan-dev/Leet_Code/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaicharan-dev/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0219-contains-duplicate-ii) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jaicharan-dev/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jaicharan-dev/Leet_Code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 ## Math
 |  |

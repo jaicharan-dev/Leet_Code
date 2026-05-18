@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/jaicharan-dev/Leet_Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jaicharan-dev/Leet_Code/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0767-reorganize-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0767-reorganize-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
 | [1405-longest-happy-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/jaicharan-dev/Leet_Code/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/jaicharan-dev/Leet_Code/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/jaicharan-dev/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+| [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/jaicharan-dev/Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/jaicharan-dev/Leet_Code/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |

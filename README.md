@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/jaicharan-dev/Leet_Code/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jaicharan-dev/Leet_Code/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0100-same-tree) |
+| [0130-surrounded-regions](https://github.com/jaicharan-dev/Leet_Code/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jaicharan-dev/Leet_Code/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jaicharan-dev/Leet_Code/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/jaicharan-dev/Leet_Code/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaicharan-dev/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaicharan-dev/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0169-majority-element) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jaicharan-dev/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0130-surrounded-regions](https://github.com/jaicharan-dev/Leet_Code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jaicharan-dev/Leet_Code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaicharan-dev/Leet_Code/tree/master/0417-pacific-atlantic-water-flow) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/jaicharan-dev/Leet_Code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 ## Math

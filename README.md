@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
+| [1462-course-schedule-iv](https://github.com/jaicharan-dev/Leet_Code/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/jaicharan-dev/Leet_Code/tree/master/0752-open-the-lock) |
 | [0994-rotting-oranges](https://github.com/jaicharan-dev/Leet_Code/tree/master/0994-rotting-oranges) |
+| [1462-course-schedule-iv](https://github.com/jaicharan-dev/Leet_Code/tree/master/1462-course-schedule-iv) |
 ## Binary Tree
 |  |
 | ------- |
@@ -427,9 +429,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jaicharan-dev/Leet_Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
 | [0997-find-the-town-judge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0997-find-the-town-judge) |
+| [1462-course-schedule-iv](https://github.com/jaicharan-dev/Leet_Code/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jaicharan-dev/Leet_Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/jaicharan-dev/Leet_Code/tree/master/1462-course-schedule-iv) |
 <!---LeetCode Topics End-->

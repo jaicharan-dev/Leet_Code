@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaicharan-dev/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jaicharan-dev/Leet_Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaicharan-dev/Leet_Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0572-subtree-of-another-tree) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jaicharan-dev/Leet_Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaicharan-dev/Leet_Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/jaicharan-dev/Leet_Code/tree/master/0684-redundant-connection) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jaicharan-dev/Leet_Code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0347-top-k-frequent-elements) |
+| [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaicharan-dev/Leet_Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/jaicharan-dev/Leet_Code/tree/master/0502-ipo) |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jaicharan-dev/Leet_Code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/jaicharan-dev/Leet_Code/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0721-accounts-merge) |
@@ -438,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jaicharan-dev/Leet_Code/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jaicharan-dev/Leet_Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/jaicharan-dev/Leet_Code/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/jaicharan-dev/Leet_Code/tree/master/1462-course-schedule-iv) |
@@ -447,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jaicharan-dev/Leet_Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
 | [1462-course-schedule-iv](https://github.com/jaicharan-dev/Leet_Code/tree/master/1462-course-schedule-iv) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

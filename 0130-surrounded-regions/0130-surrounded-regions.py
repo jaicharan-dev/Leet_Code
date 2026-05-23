@@ -4,37 +4,36 @@ class Solution:
         Do not return anything, modify board in-place instead.
         """
         rows, cols = len(board), len(board[0])
-        queue = deque()
+
+        def dfs(r,c,initial_char,final_char):
+            if not (0 <= r < rows) or not (0 <= c < cols) or board[r][c] != initial_char:
+                return
+            
+            board[r][c] = final_char
+            dfs(r+1,c,initial_char,final_char)
+            dfs(r-1,c,initial_char,final_char)
+            dfs(r,c+1,initial_char,final_char)
+            dfs(r,c-1,initial_char,final_char)
 
         for r in range(rows):
             if board[r][0] == "O":
-                board[r][0] = "T"
-                queue.append((r,0))
+                dfs(r,0,"O","T")
             if board[r][cols-1] == "O":
-                board[r][cols-1] = "T"
-                queue.append((r,cols-1))
-            
+                dfs(r,cols-1,"O","T")
+        
         for c in range(cols):
             if board[0][c] == "O":
-                board[0][c] = "T"
-                queue.append((0,c))
+                dfs(0,c,"O","T")
             if board[rows-1][c] == "O":
-                board[rows-1][c] = "T"
-                queue.append((rows-1,c))
-        
-        directions = [(-1,0), (1,0), (0,-1), (0,1)]
-        while queue:
-            r, c = queue.popleft()
-            for dr, dc in directions:
-                nr, nc = r+dr, c+dc
-                if (0 <= nr < rows) and (0 <= nc < cols) and board[nr][nc] == "O":
-                    board[nr][nc] = "T"   
-                    queue.append((nr, nc))
+                dfs(rows-1,c,"O","T")
         
         for r in range(rows):
             for c in range(cols):
                 if board[r][c] == "O":
                     board[r][c] = "X"
-                elif board[r][c] == "T":
+        
+        for r in range(rows):
+            for c in range(cols):
+                if board[r][c] == "T":
                     board[r][c] = "O"
         

@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/jaicharan-dev/Leet_Code/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/jaicharan-dev/Leet_Code/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/jaicharan-dev/Leet_Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jaicharan-dev/Leet_Code/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/jaicharan-dev/Leet_Code/tree/master/0901-online-stock-span) |
+| [0981-time-based-key-value-store](https://github.com/jaicharan-dev/Leet_Code/tree/master/0981-time-based-key-value-store) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/jaicharan-dev/Leet_Code/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
+| [0981-time-based-key-value-store](https://github.com/jaicharan-dev/Leet_Code/tree/master/0981-time-based-key-value-store) |
 | [1405-longest-happy-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/jaicharan-dev/Leet_Code/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/jaicharan-dev/Leet_Code/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jaicharan-dev/Leet_Code/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/jaicharan-dev/Leet_Code/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaicharan-dev/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |

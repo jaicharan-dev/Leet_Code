@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaicharan-dev/Leet_Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jaicharan-dev/Leet_Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jaicharan-dev/Leet_Code/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/jaicharan-dev/Leet_Code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/jaicharan-dev/Leet_Code/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/jaicharan-dev/Leet_Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/jaicharan-dev/Leet_Code/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/jaicharan-dev/Leet_Code/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaicharan-dev/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/jaicharan-dev/Leet_Code/tree/master/0374-guess-number-higher-or-lower) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/jaicharan-dev/Leet_Code/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/jaicharan-dev/Leet_Code/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/jaicharan-dev/Leet_Code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaicharan-dev/Leet_Code/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jaicharan-dev/Leet_Code/tree/master/0304-range-sum-query-2d-immutable) |

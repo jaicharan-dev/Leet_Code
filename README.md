@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/jaicharan-dev/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0752-open-the-lock](https://github.com/jaicharan-dev/Leet_Code/tree/master/0752-open-the-lock) |
 | [0853-car-fleet](https://github.com/jaicharan-dev/Leet_Code/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/jaicharan-dev/Leet_Code/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/jaicharan-dev/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
 | [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/jaicharan-dev/Leet_Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/jaicharan-dev/Leet_Code/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/jaicharan-dev/Leet_Code/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |

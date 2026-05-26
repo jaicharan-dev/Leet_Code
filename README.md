@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jaicharan-dev/Leet_Code/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jaicharan-dev/Leet_Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0146-lru-cache](https://github.com/jaicharan-dev/Leet_Code/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/jaicharan-dev/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/jaicharan-dev/Leet_Code/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/jaicharan-dev/Leet_Code/tree/master/0705-design-hashset) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/jaicharan-dev/Leet_Code/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/jaicharan-dev/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0394-decode-string) |
 ## Simulation
 |  |

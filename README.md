@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0410-split-array-largest-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0410-split-array-largest-sum) |
 ## Array
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/jaicharan-dev/Leet_Code/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaicharan-dev/Leet_Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0502-ipo](https://github.com/jaicharan-dev/Leet_Code/tree/master/0502-ipo) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jaicharan-dev/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/jaicharan-dev/Leet_Code/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/jaicharan-dev/Leet_Code/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaicharan-dev/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/jaicharan-dev/Leet_Code/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/jaicharan-dev/Leet_Code/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jaicharan-dev/Leet_Code/tree/master/0875-koko-eating-bananas) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jaicharan-dev/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/jaicharan-dev/Leet_Code/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/jaicharan-dev/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 ## Stack

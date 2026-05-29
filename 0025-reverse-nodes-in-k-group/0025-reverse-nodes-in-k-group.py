@@ -14,20 +14,21 @@ class Solution:
                 break
             
             group_next = kth.next
-            prev, curr = kth.next, group_prev.next
-            while curr != group_next:
-                tmp = curr.next
-                curr.next = prev
-                prev = curr
-                curr = tmp
+            prev, cur = kth.next, group_prev.next
+
+            while cur != group_next:
+                tmp = cur.next
+                cur.next = prev
+                prev = cur
+                cur = tmp
             
             tmp = group_prev.next
-            group_prev.next = prev
+            group_prev.next = kth
             group_prev = tmp
         return dummy.next
-    
-    def _get_kth(self, curr, k):
-        while curr and k > 0:
-            curr = curr.next
+
+    def _get_kth(self, cur, k):
+        while cur and k > 0:
+            cur = cur.next
             k -= 1
-        return curr
+        return cur

@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaicharan-dev/Leet_Code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaicharan-dev/Leet_Code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## String Matching
 |  |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaicharan-dev/Leet_Code/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |

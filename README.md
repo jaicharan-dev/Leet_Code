@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jaicharan-dev/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jaicharan-dev/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/jaicharan-dev/Leet_Code/tree/master/0130-surrounded-regions) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/jaicharan-dev/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaicharan-dev/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/jaicharan-dev/Leet_Code/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/jaicharan-dev/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/jaicharan-dev/Leet_Code/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaicharan-dev/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jaicharan-dev/Leet_Code/tree/master/0155-min-stack) |

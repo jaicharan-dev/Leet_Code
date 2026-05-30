@@ -8,8 +8,14 @@ class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         if not root: return None
 
-        self.invertTree(root.left)
-        self.invertTree(root.right)
+        queue = deque([root])
 
-        root.left, root.right = root.right, root.left
+        while queue:
+            curr = queue.popleft()
+            curr.left, curr.right = curr.right, curr.left
+            if curr.left:
+                queue.append(curr.left)
+            if curr.right:
+                queue.append(curr.right)
+
         return root

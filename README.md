@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/jaicharan-dev/Leet_Code/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/jaicharan-dev/Leet_Code/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/jaicharan-dev/Leet_Code/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/jaicharan-dev/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0394-decode-string) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jaicharan-dev/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/jaicharan-dev/Leet_Code/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/jaicharan-dev/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jaicharan-dev/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/jaicharan-dev/Leet_Code/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaicharan-dev/Leet_Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |

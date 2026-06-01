@@ -9,4 +9,5 @@ class Solution:
             if i < len(word2):
                 res.append(word2[i])
             i += 1
+        
         return "".join(res)

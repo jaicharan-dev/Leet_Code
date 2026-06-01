@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaicharan-dev/Leet_Code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/jaicharan-dev/Leet_Code/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/jaicharan-dev/Leet_Code/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0721-accounts-merge) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/jaicharan-dev/Leet_Code/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/jaicharan-dev/Leet_Code/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaicharan-dev/Leet_Code/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/jaicharan-dev/Leet_Code/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |

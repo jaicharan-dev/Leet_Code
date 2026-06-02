@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/jaicharan-dev/Leet_Code/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/jaicharan-dev/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/jaicharan-dev/Leet_Code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/jaicharan-dev/Leet_Code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/jaicharan-dev/Leet_Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jaicharan-dev/Leet_Code/tree/master/0057-insert-interval) |
@@ -608,5 +609,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/jaicharan-dev/Leet_Code/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jaicharan-dev/Leet_Code/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

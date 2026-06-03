@@ -9,11 +9,12 @@ class Solution:
                 return
             if i >= len(candidates) or total > target:
                 return
-            
+
             cur_set.append(candidates[i])
             dfs(i, total + candidates[i])
+
             cur_set.pop()
             dfs(i+1, total)
-        
+
         dfs(0, 0)
         return res

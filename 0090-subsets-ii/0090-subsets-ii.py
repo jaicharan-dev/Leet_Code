@@ -5,9 +5,9 @@ class Solution:
         nums.sort()
 
         def dfs(i):
-            if i == len(nums):
+            if i >= len(nums):
                 res.append(subset.copy())
-                return
+                return 
             
             subset.append(nums[i])
             dfs(i+1)
@@ -19,4 +19,3 @@ class Solution:
         
         dfs(0)
         return res
-

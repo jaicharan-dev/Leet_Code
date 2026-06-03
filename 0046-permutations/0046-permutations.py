@@ -2,7 +2,7 @@ class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
         cur_set = []
-        visit = set()
+        used = [False] * len(nums)
 
         def dfs():
             if len(cur_set) == len(nums):
@@ -10,14 +10,14 @@ class Solution:
                 return
             
             for i in range(len(nums)):
-                if nums[i] in visit:
+                if used[i]:
                     continue
                 cur_set.append(nums[i])
-                visit.add(nums[i])
+                used[i] = True
                 dfs()
 
                 cur_set.pop()
-                visit.remove(nums[i])
-        
+                used[i] = False
+                        
         dfs()
         return res

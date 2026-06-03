@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/jaicharan-dev/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jaicharan-dev/Leet_Code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/jaicharan-dev/Leet_Code/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/jaicharan-dev/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0394-decode-string) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/jaicharan-dev/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0337-house-robber-iii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0410-split-array-largest-sum) |
 ## Array
@@ -621,4 +623,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jaicharan-dev/Leet_Code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jaicharan-dev/Leet_Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/jaicharan-dev/Leet_Code/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

@@ -1,5 +1,7 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        # what is the first thing that should in my mind when i am doing this question
+        # what to do 
         res = []
         subset = []
 
@@ -7,12 +9,11 @@ class Solution:
             if i >= len(nums):
                 res.append(subset.copy())
                 return
-                  
+            
             subset.append(nums[i])
             dfs(i+1)
 
             subset.pop()
             dfs(i+1)
-
         dfs(0)
         return res

@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jaicharan-dev/Leet_Code/tree/master/0131-palindrome-partitioning) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jaicharan-dev/Leet_Code/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/jaicharan-dev/Leet_Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaicharan-dev/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/jaicharan-dev/Leet_Code/tree/master/0973-k-closest-points-to-origin) |
@@ -629,4 +631,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jaicharan-dev/Leet_Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jaicharan-dev/Leet_Code/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

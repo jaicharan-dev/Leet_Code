@@ -4,9 +4,8 @@ class Solution:
         rob2 = 0
 
         for n in nums:
-            current = max(n+rob1, rob2)
-
+            curr = max(n+rob1, rob2)
             rob1 = rob2
-            rob2 = current
+            rob2 = curr
 
         return rob2

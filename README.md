@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaicharan-dev/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/jaicharan-dev/Leet_Code/tree/master/0752-open-the-lock) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0746-min-cost-climbing-stairs) |
 ## Array
 |  |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/jaicharan-dev/Leet_Code/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/jaicharan-dev/Leet_Code/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/jaicharan-dev/Leet_Code/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0767-reorganize-string) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/jaicharan-dev/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaicharan-dev/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jaicharan-dev/Leet_Code/tree/master/0739-daily-temperatures) |

@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1095-find-in-mountain-array) |
 | [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/jaicharan-dev/Leet_Code/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Queue
 |  |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/jaicharan-dev/Leet_Code/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/jaicharan-dev/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [1405-longest-happy-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/1405-longest-happy-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/jaicharan-dev/Leet_Code/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sorting
 |  |
 | ------- |

@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jaicharan-dev/Leet_Code/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/jaicharan-dev/Leet_Code/tree/master/0310-minimum-height-trees) |
 | [0337-house-robber-iii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaicharan-dev/Leet_Code/tree/master/0417-pacific-atlantic-water-flow) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/jaicharan-dev/Leet_Code/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaicharan-dev/Leet_Code/tree/master/0417-pacific-atlantic-water-flow) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jaicharan-dev/Leet_Code/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jaicharan-dev/Leet_Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/jaicharan-dev/Leet_Code/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/jaicharan-dev/Leet_Code/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0997-find-the-town-judge) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/jaicharan-dev/Leet_Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/jaicharan-dev/Leet_Code/tree/master/0310-minimum-height-trees) |
 | [1462-course-schedule-iv](https://github.com/jaicharan-dev/Leet_Code/tree/master/1462-course-schedule-iv) |
 ## Shortest Path
 |  |

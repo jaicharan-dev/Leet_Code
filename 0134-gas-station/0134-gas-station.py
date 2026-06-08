@@ -3,12 +3,14 @@ class Solution:
         if sum(gas) < sum(cost):
             return -1
         
-        current_tank = 0
+        gas_tank = 0
         start_station = 0
 
         for i in range(len(gas)):
-            current_tank += (gas[i] - cost[i])
-            if current_tank < 0:
-                start_station = i + 1
-                current_tank = 0
+            gas_tank += (gas[i]-cost[i])
+
+            if gas_tank < 0:
+                gas_tank = 0
+                start_station = i+1
+        
         return start_station

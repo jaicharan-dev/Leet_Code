@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/jaicharan-dev/Leet_Code/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0997-find-the-town-judge) |
+| [2402-meeting-rooms-iii](https://github.com/jaicharan-dev/Leet_Code/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/1405-longest-happy-string) |
 | [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
+| [2402-meeting-rooms-iii](https://github.com/jaicharan-dev/Leet_Code/tree/master/2402-meeting-rooms-iii) |
 ## String
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/jaicharan-dev/Leet_Code/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1929-concatenation-of-array) |
+| [2402-meeting-rooms-iii](https://github.com/jaicharan-dev/Leet_Code/tree/master/2402-meeting-rooms-iii) |
 ## Queue
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1929-concatenation-of-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1929-concatenation-of-array) |
+| [2402-meeting-rooms-iii](https://github.com/jaicharan-dev/Leet_Code/tree/master/2402-meeting-rooms-iii) |
 ## Trie
 |  |
 | ------- |
@@ -505,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/jaicharan-dev/Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
+| [2402-meeting-rooms-iii](https://github.com/jaicharan-dev/Leet_Code/tree/master/2402-meeting-rooms-iii) |
 ## Counting
 |  |
 | ------- |

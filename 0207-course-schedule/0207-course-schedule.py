@@ -1,25 +1,21 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        adj_list = defaultdict(list)
+        prereq = defaultdict(list)
         in_degree = [0] * numCourses
+        for crs, pre in prerequisites:
+            prereq[pre].append(crs)
+            in_degree[crs] += 1
+        
         queue = deque()
-        courses_taken = 0
-        for course, prereq in prerequisites:
-            adj_list[prereq].append(course)
-            in_degree[course] += 1
+        for idx, count in enumerate(in_degree):
+            if count == 0:
+                queue.append(idx)
         
-        for course, freq in enumerate(in_degree):
-            if freq == 0:
-                queue.append(course)
-            
         while queue:
-            course = queue.popleft()
-            courses_taken += 1
+            crs_completed = queue.popleft()
+            for crs in prereq[crs_completed]:
+                in_degree[crs] -= 1
+                if in_degree[crs] == 0:
+                    queue.append(crs)
 
-            for next_course in adj_list[course]:
-                in_degree[next_course] -= 1
-                if in_degree[next_course] == 0:
-                    queue.append(next_course)
-        
-        return courses_taken == numCourses
-
+        return True if max(in_degree) == 0 else False 

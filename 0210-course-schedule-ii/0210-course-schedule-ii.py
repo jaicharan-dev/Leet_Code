@@ -1,24 +1,25 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        adj_list = defaultdict(list)
+        hash_map = defaultdict(list)
         in_degree = [0] * numCourses
-        queue = deque()
         res = []
-        for course, prereq in prerequisites:
-            adj_list[prereq].append(course)
-            in_degree[course] += 1
+        for crs, pre in prerequisites:
+            hash_map[pre].append(crs)
+            in_degree[crs] += 1
         
-        for course, degrees_needed in enumerate(in_degree):
-            if degrees_needed == 0:
-                queue.append(course)
+        queue = deque()
+        for idx, freq in enumerate(in_degree):
+            if freq == 0:
+                queue.append(idx)
         
         while queue:
-            course = queue.popleft()
-            res.append(course)
+            crs_completed = queue.popleft()
+            res.append(crs_completed)
 
-            for next_course in adj_list[course]:
-                in_degree[next_course] -= 1
-                if in_degree[next_course] == 0:
-                    queue.append(next_course)
-        
-        return res if len(res) == numCourses else []
+            for crs in hash_map[crs_completed]:
+                in_degree[crs] -= 1
+                if in_degree[crs] == 0:
+                    queue.append(crs)
+
+        return res if max(in_degree) == 0 else []
+                

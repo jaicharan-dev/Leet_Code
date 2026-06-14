@@ -3,9 +3,9 @@ class Solution:
         rob1 = 0
         rob2 = 0
 
-        for n in nums:
-            curr = max(n+rob1, rob2)
+        for i in range(len(nums)):
+            temp = max(rob1+nums[i], rob2)
             rob1 = rob2
-            rob2 = curr
-
+            rob2 = temp
+        
         return rob2

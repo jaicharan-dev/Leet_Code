@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jaicharan-dev/Leet_Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaicharan-dev/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/jaicharan-dev/Leet_Code/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jaicharan-dev/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jaicharan-dev/Leet_Code/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/jaicharan-dev/Leet_Code/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0394-decode-string) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jaicharan-dev/Leet_Code/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/jaicharan-dev/Leet_Code/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/jaicharan-dev/Leet_Code/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/jaicharan-dev/Leet_Code/tree/master/0435-non-overlapping-intervals) |

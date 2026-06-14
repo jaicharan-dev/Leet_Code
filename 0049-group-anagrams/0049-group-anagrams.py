@@ -7,5 +7,4 @@ class Solution:
                 freq_map[ord(char) - ord('a')] += 1  
             hash_map[tuple(freq_map)].append(s)
 
-        res = [char_list for char_list in hash_map.values()]
-        return res
+        return list(hash_map.values())

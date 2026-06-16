@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jaicharan-dev/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/jaicharan-dev/Leet_Code/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jaicharan-dev/Leet_Code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0229-majority-element-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/jaicharan-dev/Leet_Code/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/jaicharan-dev/Leet_Code/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/jaicharan-dev/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jaicharan-dev/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/jaicharan-dev/Leet_Code/tree/master/0295-find-median-from-data-stream) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/jaicharan-dev/Leet_Code/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/jaicharan-dev/Leet_Code/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/jaicharan-dev/Leet_Code/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/jaicharan-dev/Leet_Code/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0344-reverse-string) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jaicharan-dev/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/jaicharan-dev/Leet_Code/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0208-implement-trie-prefix-tree) |
 ## Two Pointers
 |  |
 | ------- |

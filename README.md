@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jaicharan-dev/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jaicharan-dev/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0055-jump-game) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/jaicharan-dev/Leet_Code/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/jaicharan-dev/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jaicharan-dev/Leet_Code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/jaicharan-dev/Leet_Code/tree/master/0049-group-anagrams) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jaicharan-dev/Leet_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jaicharan-dev/Leet_Code/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/jaicharan-dev/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/jaicharan-dev/Leet_Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jaicharan-dev/Leet_Code/tree/master/0125-valid-palindrome) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaicharan-dev/Leet_Code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/jaicharan-dev/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/jaicharan-dev/Leet_Code/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/jaicharan-dev/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/jaicharan-dev/Leet_Code/tree/master/0143-reorder-list) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/jaicharan-dev/Leet_Code/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/jaicharan-dev/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jaicharan-dev/Leet_Code/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/jaicharan-dev/Leet_Code/tree/master/0901-online-stock-span) |

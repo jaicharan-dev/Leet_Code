@@ -1,17 +1,12 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        freqMap = {}
-        left = 0
-        length = 0
-
-        for right in range(len(s)):
-            freqMap[s[right]] = 1 + freqMap.get(s[right], 0)
-            max_char = max(freqMap.values())
-
-            while (right - left + 1) - max_char > k:
-                freqMap[s[left]] -= 1
-                left += 1
-
-            length = max(length, (right - left + 1))
-        
-        return length
+        hash_map = {}
+        l = 0
+        max_len = 0
+        for r in range(len(s)):
+            hash_map[s[r]] = 1 + hash_map.get(s[r], 0)
+            while (r-l+1) - max(hash_map.values()) > k:
+                hash_map[s[l]] -= 1
+                l += 1
+            max_len = max(max_len, r-l+1)
+        return max_len

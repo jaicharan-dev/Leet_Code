@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/jaicharan-dev/Leet_Code/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/jaicharan-dev/Leet_Code/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/jaicharan-dev/Leet_Code/tree/master/0895-maximum-frequency-stack) |
 | [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/jaicharan-dev/Leet_Code/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0997-find-the-town-judge) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/jaicharan-dev/Leet_Code/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/jaicharan-dev/Leet_Code/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/jaicharan-dev/Leet_Code/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/jaicharan-dev/Leet_Code/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/jaicharan-dev/Leet_Code/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/jaicharan-dev/Leet_Code/tree/master/0981-time-based-key-value-store) |
 ## Heap (Priority Queue)
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jaicharan-dev/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/jaicharan-dev/Leet_Code/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/jaicharan-dev/Leet_Code/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/jaicharan-dev/Leet_Code/tree/master/0901-online-stock-span) |
 ## Bucket Sort
 |  |
@@ -728,4 +731,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/jaicharan-dev/Leet_Code/tree/master/1851-minimum-interval-to-include-each-query) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/jaicharan-dev/Leet_Code/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->

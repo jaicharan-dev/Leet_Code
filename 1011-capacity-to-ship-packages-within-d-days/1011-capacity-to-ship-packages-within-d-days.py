@@ -3,15 +3,13 @@ class Solution:
         
         def count_days(ship_capacity):
             curr_capacity = 0
-            i = 0
             days = 1
-            while i < len(weights):
-                if curr_capacity + weights[i] <= ship_capacity:
-                    curr_capacity += weights[i]
+            for weight in weights:
+                if curr_capacity + weight <= ship_capacity:
+                    curr_capacity += weight
                 else:
                     days += 1
-                    curr_capacity = weights[i]
-                i += 1
+                    curr_capacity = weight
             return days
 
         left, right = max(weights), sum(weights)

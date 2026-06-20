@@ -1,37 +1,29 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        A, B = nums1, nums2
-        total = len(A) + len(B)
-        half = (total + 1) // 2
+        if len(nums1) > len(nums2):
+            nums1, nums2 = nums2, nums1
+        
+        m, n = len(nums1), len(nums2)
+        low, high = 0, m
 
-        # Ensure A is the smaller array to optimize time complexity to O(log(min(M, N)))
-        if len(B) < len(A):
-            A, B = B, A
+        while low <= high:
+            partitionX = (low + high) // 2
+            partitionY = (m + n + 1) // 2 - partitionX
+        
+            maxLeftX = float('-inf') if partitionX == 0 else nums1[partitionX - 1]
+            maxLeftY = float('-inf') if partitionY == 0 else nums2[partitionY - 1]
+            minRightX = float('inf') if partitionX == m else nums1[partitionX]
+            minRightY = float('inf') if partitionY == n else nums2[partitionY]
 
-        l, r = 0, len(A)
-
-        while l <= r:
-            i = (l + r) // 2  # Partition index for A
-            j = half - i      # Partition index for B
-
-            # Grab boundary elements, handle edge cases with infinity if partition is at the ends
-            A_left = A[i - 1] if i > 0 else float('-inf')
-            A_right = A[i] if i < len(A) else float('inf')
+            if maxLeftX <= minRightY and maxLeftY <= minRightX:
+                if (m + n) % 2 == 0:
+                    return (max(maxLeftX, maxLeftY) + min(minRightX, minRightY)) / 2.0
+                else:
+                    return float(max(maxLeftX, maxLeftY))
             
-            B_left = B[j - 1] if j > 0 else float('-inf')
-            B_right = B[j] if j < len(B) else float('inf')
-
-            # Check if partition is correct
-            if A_left <= B_right and B_left <= A_right:
-                # Odd total number of elements: median is the max of the left halves
-                if total % 2 != 0:
-                    return max(A_left, B_left)
-                # Even total number of elements: average of the two middle elements
-                return (max(A_left, B_left) + min(A_right, B_right)) / 2.0
-                
-            elif A_left > B_right:
-                # Too many elements from A, move left bound down
-                r = i - 1
+            elif maxLeftX > minRightY:
+                high = partitionX - 1
+            
             else:
-                # Too few elements from A, move right bound up
-                l = i + 1
+                low = partitionX + 1
+

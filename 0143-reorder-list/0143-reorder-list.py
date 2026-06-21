@@ -8,31 +8,14 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        dummy = ListNode()
-        dummy.next = head
-
+        dummy = ListNode(0, head)
         slow, fast = dummy, dummy
         while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-        
-        curr = slow.next
-        slow.next = None
-        prev = None
+            slow, fast = slow.next, fast.next.next
+        curr, prev, slow.next = slow.next, None, None
         while curr:
             curr.next, prev, curr = prev, curr, curr.next
-        
-        head2 = prev
-        head1 = dummy.next
-
+        head1, head2 = dummy.next, prev
         while head2:
-            temp1 = head1.next
-            temp2 = head2.next
-
-            head1.next = head2
-            head2.next = temp1
-
-            head1 = temp1
-            head2 = temp2
-
+            head1.next,head2.next,head1,head2=head2,head1.next,head1.next,head2.next
         return dummy.next

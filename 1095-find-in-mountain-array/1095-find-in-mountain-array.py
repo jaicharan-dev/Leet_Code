@@ -11,7 +11,7 @@ class Solution:
         n = mountainArr.length()
         l, r = 0, n-1
         while l < r:
-            mid = (l+r)//2
+            mid = (l+r) // 2
             if mountainArr.get(mid) < mountainArr.get(mid+1):
                 l = mid + 1
             else:
@@ -35,9 +35,9 @@ class Solution:
             val = mountainArr.get(mid)
             if val == target:
                 return mid
-            elif val < target:
-                r = mid - 1
-            else:
+            elif val > target:
                 l = mid + 1
+            else:
+                r = mid - 1
         
         return -1

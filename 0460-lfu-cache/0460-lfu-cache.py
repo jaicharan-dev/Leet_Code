@@ -14,18 +14,17 @@ class LFUCache:
         new_freq = freq + 1
         self.key_to_val_freq[key][1] = new_freq
         self.freq_to_key[new_freq][key] = None
-    
+
     def get(self, key: int) -> int:
         if key not in self.key_to_val_freq:
             return -1
         val, freq = self.key_to_val_freq[key]
         self._update_freq(key, freq)
         return val
-
+    
     def put(self, key: int, value: int) -> None:
-        if self.capacity == 0:
-            return 
-        
+        if self.capacity == 0: return
+
         if key in self.key_to_val_freq:
             self.key_to_val_freq[key][0] = value
             freq = self.key_to_val_freq[key][1]
@@ -33,13 +32,12 @@ class LFUCache:
         else:
             if len(self.key_to_val_freq) >= self.capacity:
                 lru_key = next(iter(self.freq_to_key[self.min_freq]))
-                del self.freq_to_key[self.min_freq][lru_key]
                 del self.key_to_val_freq[lru_key]
+                del self.freq_to_key[self.min_freq][lru_key]
             
             self.key_to_val_freq[key] = [value, 1]
             self.freq_to_key[1][key] = None
             self.min_freq = 1
-
 
 # Your LFUCache object will be instantiated and called as such:
 # obj = LFUCache(capacity)

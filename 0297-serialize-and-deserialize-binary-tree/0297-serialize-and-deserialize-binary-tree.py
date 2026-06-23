@@ -13,17 +13,17 @@ class Codec:
         :type root: TreeNode
         :rtype: str
         """
-        # pre_order_traversal
         res = []
         def dfs(node):
+            nonlocal res
             if not node:
-                res.append('N')
+                res.append("N")
                 return
-            
+
             res.append(str(node.val))
             dfs(node.left)
             dfs(node.right)
-        
+
         dfs(root)
         return ",".join(res)
 
@@ -40,14 +40,16 @@ class Codec:
             if vals[self.i] == "N":
                 self.i += 1
                 return None
-            node = TreeNode(int(vals[self.i]))
+            
+            node = TreeNode(vals[self.i])
             self.i += 1
             node.left = dfs()
             node.right = dfs()
             return node
         
         return dfs()
-        
+
+
 
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()

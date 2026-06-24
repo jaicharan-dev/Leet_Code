@@ -13,8 +13,8 @@ class Solution:
             right_rob, right_skip = dfs(node.right)
 
             rob_this = node.val + left_skip + right_skip
-            skip_this = max(left_rob, left_skip) + max(right_rob, right_skip)
+            rob_skip = max(left_rob, left_skip) + max(right_rob, right_skip)
 
-            return (rob_this, skip_this)
-        
+            return (rob_this, rob_skip)
+
         return max(dfs(root))

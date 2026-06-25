@@ -3,19 +3,17 @@ class Solution:
         projects = list(zip(capital, profits))
         projects.sort(key=lambda x: x[0])
 
-        maxHeap = []
         i = 0
-        n = len(projects)
-
+        max_heap = []
         for _ in range(k):
-            while i < n and projects[i][0] <= w:
-                heapq.heappush(maxHeap, -projects[i][1])
+
+            while i < len(projects) and projects[i][0] <= w:
+                heapq.heappush(max_heap, -projects[i][1])
                 i += 1
             
-            if not maxHeap:
+            if not max_heap:
                 break
-
-            w += -heapq.heappop(maxHeap)
-
-        return w
             
+            w += -heapq.heappop(max_heap)
+        
+        return w

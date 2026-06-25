@@ -1,26 +1,25 @@
 class Solution:
     def getOrder(self, tasks: List[List[int]]) -> List[int]:
-        task_order = [(queue_time, process_time, idx) for idx, (queue_time, process_time) in enumerate(tasks)]
-        task_order.sort(key=lambda x: x[0])
+        sort_tasks = [(start, process, idx) for idx, (start, process) in enumerate(tasks)]
+        sort_tasks.sort()
 
-        time = 0
+        curr_time = 0
         i = 0
-        n = len(tasks)
-        minHeap = []
+        min_heap = []
         res = []
+        
+        while i < len(sort_tasks) or min_heap:
+            if not min_heap and curr_time < sort_tasks[i][0]:
+                curr_time = sort_tasks[i][0]
 
-        while i < n or minHeap:  # processing one element at a time
-
-            if not minHeap and time < task_order[i][0]:
-                time = task_order[i][0]
-
-            while i < n and task_order[i][0] <= time:
-                _, process_time, idx = task_order[i]
-                heapq.heappush(minHeap, (process_time, idx))
+            while i < len(sort_tasks) and curr_time >= sort_tasks[i][0]:
+                start, process, idx = sort_tasks[i]
+                heapq.heappush(min_heap, (process, idx))
                 i += 1
-
             
-            process_time, idx = heapq.heappop(minHeap)
-            time += process_time
+            process, idx = heapq.heappop(min_heap)
+            curr_time += process
             res.append(idx)
+
         return res
+

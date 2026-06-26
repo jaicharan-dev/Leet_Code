@@ -5,31 +5,31 @@ class Solution:
         """
         
         rows, cols = len(board), len(board[0])
+        global_set = set() 
 
-        def dfs(r, c, visit):
-            if (not (0 <= r < rows) or 
-                not (0 <= c < cols)):
-                return False
-            
-            if board[r][c] == "X":
+        def dfs(r, c, cur_set):
+            if (not (0 <= r < rows) or not (0 <= c < cols)):
                 return True
             
-            if board[r][c] == "O" and (r,c) in visit:
-                return True 
+            if board[r][c] == "X" or (r,c) in global_set:
+                return False
             
-            if board[r][c] == "O" and (r,c) not in visit:
-                visit.add((r, c))
-                return (dfs(r+1, c, visit) and
-                        dfs(r-1, c, visit) and
-                        dfs(r, c+1, visit) and
-                        dfs(r, c-1, visit))
+            global_set.add((r, c))
+            cur_set.append((r, c))
+
+            up = dfs(r+1, c, cur_set)
+            down = dfs(r-1, c, cur_set)
+            left = dfs(r, c+1, cur_set)
+            right = dfs(r, c-1, cur_set)
+
+            return up or down or left or right
          
         for r in range(rows):
             for c in range(cols):
-                if board[r][c] == "O":
-                    visit_set = set()
-                    if dfs(r, c, visit_set):
-                        for vr, vc in visit_set:
+                if board[r][c] == "O" and (r,c) not in global_set:
+                    cur_set = []
+                    if not dfs(r, c, cur_set):
+                        for vr, vc in cur_set:
                             board[vr][vc] = "X"
         
                      

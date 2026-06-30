@@ -9,5 +9,4 @@ class Solution:
                     dp[i] = dp[i+len(word)]
                 if dp[i]:
                     break
-                
         return dp[0]

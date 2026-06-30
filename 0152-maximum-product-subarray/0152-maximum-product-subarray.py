@@ -1,19 +1,17 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-        res = nums[0]
-
-        cur_max = nums[0]
-        cur_min = nums[0]
+        curr_max = nums[0]
+        curr_min = nums[0]
+        global_max = nums[0]
 
         for i in range(1, len(nums)):
+            choice_a = curr_max * nums[i]
+            choice_b = curr_min * nums[i]
+            choice_c = nums[i]
 
-            choice_a = nums[i]
-            choice_b = nums[i] * cur_max
-            choice_c = nums[i] * cur_min
+            curr_max = max(choice_a, choice_b, choice_c)
+            curr_min = min(choice_a, choice_b, choice_c)
 
-            cur_max = max(choice_a, choice_b, choice_c) 
-            cur_min = min(choice_a, choice_b, choice_c)
+            global_max = max(global_max, curr_max)
         
-            res = max(res, cur_max)
-        
-        return res
+        return global_max

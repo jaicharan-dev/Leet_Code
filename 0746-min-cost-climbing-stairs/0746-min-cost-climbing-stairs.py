@@ -1,14 +1,14 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        if len(cost) <= 2:
-            return min(cost)
-        
-        one_back = cost[1]
-        two_back = cost[0]
+        one_back = 0
+        two_back = 0
 
-        for i in range(2, len(cost)):
-            current_step = cost[i] + min(two_back, one_back)
+        for i in range(2, len(cost)+1):
+            take_one_step = one_back + cost[i-1]
+            take_two_step = two_back + cost[i-2]
+            current = min(take_one_step, take_two_step)
+
             two_back = one_back
-            one_back = current_step
-
-        return min(one_back, two_back)
+            one_back = current
+        
+        return one_back

@@ -1,33 +1,35 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
-        if len(s) < len(t) or not t:
-            return ""
+        if not s or not t: return ""
 
-        char_map = [0] * 128
-        for char in t:
-            char_map[ord(char)] += 1
-        
+        target_dict = Counter(t)
+        need = len(target_dict)
+
+        curr_dict = {char:0 for char in target_dict.keys()}
+        have = 0
+
+        res_length = float("inf")
+        res_start = 0
+
         left = 0
-        count = len(t)
-        min_start = 0
-        min_len = float('inf')
-
         for right in range(len(s)):
-            if char_map[ord(s[right])] > 0:
-                count -= 1 
-            char_map[ord(s[right])] -= 1
-            
-            while count == 0:
-                if right-left+1 < min_len:
-                    min_len = right-left+1
-                    min_start = left
+            char = s[right]
+            if char in curr_dict:
+                curr_dict[char] += 1
+                if curr_dict[char] == target_dict[char]:
+                    have += 1
                 
-                char_map[ord(s[left])] += 1
-                if char_map[ord(s[left])] > 0:
-                    count += 1
+            while have == need:
+                if res_length > (right-left+1):
+                    res_start = left
+                    res_length = right-left+1
+                
+                left_char = s[left]
+                if left_char in curr_dict:
+                    curr_dict[left_char] -= 1
+                    if curr_dict[left_char] < target_dict[left_char]:
+                        have -= 1
+                
                 left += 1
-        
-        return "" if min_len == float('inf') else s[min_start : min_start + min_len]
-            
-
+        return s[res_start:res_start+res_length] if res_length != float('inf') else ""
         

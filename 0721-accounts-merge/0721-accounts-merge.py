@@ -11,7 +11,7 @@ class Solution:
                     email_to_id[email] = id_cnt
                     email_to_name[email] = name
                     id_cnt += 1
-            
+                
         parent = list(range(id_cnt))
 
         def find(i):
@@ -38,9 +38,10 @@ class Solution:
         for email, email_id in email_to_id.items():
             root_id = find(email_id)
             components[root_id].append(email)
-
+        
         res = []
         for root_id, email_list in components.items():
             name = email_to_name[email_list[0]]
             res.append([name] + sorted(email_list))
         return res
+            

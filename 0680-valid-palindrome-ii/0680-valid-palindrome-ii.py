@@ -1,19 +1,23 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
-        l, r = 0, len(s)-1
-        while l < r:
-            if s[l] != s[r]:
-                return self.is_pali(s, l+1,r) or self.is_pali(s, l, r-1)
+        left, right = 0, len(s)-1
+        while left < right:
+            if s[left] != s[right]:
+                str1 = s[:left] + s[left+1:]
+                str2 = s[:right] + s[right+1:]
+                return self._is_pali(str1) or self._is_pali(str2)
             else:
-                l += 1
-                r -= 1
+                left += 1
+                right -= 1
         return True
     
-    def is_pali(self, s, l, r):
-        while l < r:
-            if s[l] != s[r]:
+    def _is_pali(self, string):
+        left, right = 0, len(string)-1
+        while left < right:
+            if string[left] != string[right]:
                 return False
             else:
-                l += 1
-                r -= 1
+                left += 1
+                right -= 1
         return True
+            

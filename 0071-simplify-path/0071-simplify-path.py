@@ -4,9 +4,9 @@ class Solution:
         stack = []
 
         for char in string:
-            if char == '.' or char == '':
+            if char == "" or char == ".":
                 continue
-            elif char == '..':
+            elif char == "..":
                 if stack:
                     stack.pop()
             else:

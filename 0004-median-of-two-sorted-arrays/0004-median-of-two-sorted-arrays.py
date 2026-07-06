@@ -1,29 +1,28 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        if len(nums1) > len(nums2):
-            nums1, nums2 = nums2, nums1
-        
-        m, n = len(nums1), len(nums2)
-        low, high = 0, m
+        A, B = nums1, nums2
+        total = len(nums1) + len(nums2)
+        half = total // 2
 
-        while low <= high:
-            partitionX = (low + high) // 2
-            partitionY = (m + n + 1) // 2 - partitionX
+        if len(B) < len(A):
+            A, B = B, A
         
-            maxLeftX = float('-inf') if partitionX == 0 else nums1[partitionX - 1]
-            maxLeftY = float('-inf') if partitionY == 0 else nums2[partitionY - 1]
-            minRightX = float('inf') if partitionX == m else nums1[partitionX]
-            minRightY = float('inf') if partitionY == n else nums2[partitionY]
+        l, r = 0, len(A)-1
+        while True:
+            i = (l + r) // 2
+            j = half - i - 2
 
-            if maxLeftX <= minRightY and maxLeftY <= minRightX:
-                if (m + n) % 2 == 0:
-                    return (max(maxLeftX, maxLeftY) + min(minRightX, minRightY)) / 2.0
+            Aleft = A[i] if i >= 0 else float("-inf")
+            Aright = A[i+1] if (i+1) < len(A) else float("inf")
+            Bleft = B[j] if j >=0 else float("-inf")
+            Bright = B[j+1] if (j+1) < len(B) else float("inf")
+
+            if Aleft <= Bright and Bleft <= Aright:
+                if total % 2:
+                    return min(Aright, Bright)
                 else:
-                    return float(max(maxLeftX, maxLeftY))
-            
-            elif maxLeftX > minRightY:
-                high = partitionX - 1
-            
+                    return (max(Aleft, Bleft) + min(Aright, Bright)) / 2
+            elif Aleft > Bright:
+                r = i - 1
             else:
-                low = partitionX + 1
-
+                l = i + 1

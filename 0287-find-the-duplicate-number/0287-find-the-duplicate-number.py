@@ -3,14 +3,14 @@ class Solution:
         slow, fast = 0, 0
 
         while True:
-            slow = nums[slow]
-            fast = nums[nums[fast]]
+            slow, fast = nums[slow], nums[nums[fast]]
             if slow == fast:
                 break
         
         slow2 = 0
-        while slow != slow2:
-            slow = nums[slow]
-            slow2 = nums[slow2]
-
+        while True:
+            slow2, slow = nums[slow2], nums[slow]
+            if slow == slow2:
+                break
+        
         return slow

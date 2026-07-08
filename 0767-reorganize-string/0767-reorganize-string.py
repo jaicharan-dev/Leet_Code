@@ -1,24 +1,22 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
+        max_heap = []
         count = Counter(s)
+        cooldown = None
+        for char, freq in count.items():
+            heapq.heappush(max_heap, (-freq,char))
 
-        max_heap = [(-freq, char) for char, freq in count.items()]
-        heapq.heapify(max_heap)
-
-        prev = None
-        res = []
-        
+        res = ""
         while max_heap:
-
             freq, char = heapq.heappop(max_heap)
-            res.append(char)
-
-            if prev:
-                heapq.heappush(max_heap, prev)
-                prev = None
-            
+            res += char
             freq += 1
+            if cooldown:
+                heapq.heappush(max_heap, cooldown)
+                cooldown = None
             if freq != 0:
-                prev = (freq, char)
+                cooldown = (freq, char)
+        
+        return res if len(res) == len(s) else ""
             
-        return "".join(res) if not prev else ""
+

@@ -1,37 +1,33 @@
 class Solution:
     def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
-        meetings.sort(key=lambda x: x[0])
-        room_counts = [0] * n
-
-        available_rooms = [i for i in range(n)]
-        heapq.heapify(available_rooms)
-
-        busy_rooms = []
+        meetings.sort()
+        freq_map = [0] * n
+        available = [i for i in range(n)]
+        heapq.heapify(available)
+        busy = []
 
         for start, end in meetings:
-            while busy_rooms and busy_rooms[0][0] <= start:
-                end_time, room_no = heapq.heappop(busy_rooms)
-                heapq.heappush(available_rooms, room_no)
+            while busy and busy[0][0] <= start:
+                _, room = heapq.heappop(busy)
+                heapq.heappush(available, room)
 
-            if available_rooms:
-                room = heapq.heappop(available_rooms)
-                heapq.heappush(busy_rooms, (end, room))
-                room_counts[room] += 1
+            if available:
+                room = heapq.heappop(available)
+                heapq.heappush(busy, (end,room))
+                freq_map[room] += 1
             
             else:
-                nearest_end, room = heapq.heappop(busy_rooms)
+                next_end, room = heapq.heappop(busy)
                 duration = end - start
-                new_end = nearest_end + duration
-                heapq.heappush(busy_rooms, (new_end, room))
-                room_counts[room] += 1
+                new_end = next_end + duration
+                heapq.heappush(busy, (new_end, room))
+                freq_map[room] += 1
         
-        max_meetings = -1
-        best_room = -1
-
-        for i in range(len(room_counts)):
-            if room_counts[i] > max_meetings:
-                max_meetings = room_counts[i]
-                best_room = i
+        max_freq = 0
+        res = 0
+        for room, freq in enumerate(freq_map):
+            if freq > max_freq:
+                res = room
+                max_freq = freq
         
-        return best_room
-        
+        return res

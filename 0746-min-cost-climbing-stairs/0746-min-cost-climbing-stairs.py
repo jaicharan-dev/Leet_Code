@@ -1,14 +1,19 @@
 class Solution:
     def minCostClimbingStairs(self, cost: List[int]) -> int:
-        one_back = 0
-        two_back = 0
+        memo = {}
 
-        for i in range(2, len(cost)+1):
-            take_one_step = one_back + cost[i-1]
-            take_two_step = two_back + cost[i-2]
-            current = min(take_one_step, take_two_step)
+        def dfs(i):
+            if i in memo:
+                return memo[i]
 
-            two_back = one_back
-            one_back = current
+            if i == 0 or i == 1:
+                return 0
+            
+            one_back = dfs(i-1) + cost[i-1]
+            two_back = dfs(i-2) + cost[i-2]
+
+            memo[i] = min(one_back, two_back)
         
-        return one_back
+            return memo[i]
+        
+        return dfs(len(cost))

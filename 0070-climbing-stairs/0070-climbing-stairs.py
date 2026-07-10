@@ -1,14 +1,12 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        if n <= 2:
-            return n
-        
-        one_back = 2
+        if n < 2: return n
+
+        one_back = 1
         two_back = 1
 
-        for i in range(3, n+1):
-            curr_ways = one_back + two_back
-            two_back = one_back
-            one_back = curr_ways
+        for _ in range(2, n+1):
+            one_back, two_back = one_back + two_back, one_back
         
         return one_back
+

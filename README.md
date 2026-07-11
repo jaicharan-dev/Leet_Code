@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/jaicharan-dev/Leet_Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/jaicharan-dev/Leet_Code/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jaicharan-dev/Leet_Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jaicharan-dev/Leet_Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0337-house-robber-iii) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaicharan-dev/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/jaicharan-dev/Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search Tree

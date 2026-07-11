@@ -1,11 +1,16 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        rob1 = 0
-        rob2 = 0
+        memo = {}
 
-        for i in range(len(nums)):
-            temp = max(rob1+nums[i], rob2)
-            rob1 = rob2
-            rob2 = temp
-        
-        return rob2
+        def dfs(i):
+            if i in memo:
+                return memo[i]
+            
+            if i == 0: return nums[i]
+            if i == 1: return max(nums[i], nums[i-1])
+
+            memo[i] = max(dfs(i-2) + nums[i], dfs(i-1))
+
+            return memo[i]
+
+        return dfs(len(nums)-1) 

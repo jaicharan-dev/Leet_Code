@@ -1,20 +1,16 @@
 class Solution:
     def numDecodings(self, s: str) -> int:
-        if s[0] == "0": 
-            return 0
+        memo = {}
 
-        two_back = 1
-        one_back = 1
-
-        for i in range(1, len(s)):
-            current = 0
-            if s[i] != "0":
-                current += one_back
+        def dfs(i):
+            if i in memo: return memo[i]
+            if i == len(s): return 1
+            if s[i] == "0": return 0
             
-            if 10 <= int(s[i-1:i+1]) <= 26:
-                current += two_back
-            
-            two_back = one_back
-            one_back = current
+            ways = dfs(i+1)
+            if (i+1) < len(s) and int(s[i:i+2]) <= 26:
+                ways += dfs(i+2)
+            memo[i] = ways
+            return memo[i]
         
-        return one_back
+        return dfs(0)

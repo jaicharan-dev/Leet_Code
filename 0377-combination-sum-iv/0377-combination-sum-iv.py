@@ -1,18 +1,13 @@
 class Solution:
     def combinationSum4(self, nums: List[int], target: int) -> int:
-        memo = {}
+        if target == 0: return 1
 
-        def dfs(i):
-            if i in memo: return memo[i]
-            if i == 0: return 1
-            if i < 0: return 0
+        dp = [0] * (target+1)
+        dp[0] = 1
 
-            total_ways = 0
+        for i in range(1, target+1):
             for num in nums:
-                total_ways += dfs(i-num)
-
-            memo[i] = total_ways
-            return memo[i]
+                if i-num >= 0:
+                    dp[i] += dp[i-num]
         
-        return dfs(target)
-
+        return dp[target]

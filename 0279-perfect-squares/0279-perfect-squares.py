@@ -6,20 +6,14 @@ class Solution:
             squares.append(i*i)
             i += 1
         
-        memo = {}
+        dp = [float("inf")] * (n+1)
+        dp[0] = 0
 
-        def dfs(i):
-            if i in memo: return memo[i]
-            if i == 0: return 0
+        for a in range(1, n+1):
+            for sq in squares:
+                if a - sq >= 0:
+                    dp[a] = min(dp[a], 1 + dp[a-sq])
+                else:
+                    break
 
-            min_cnt = float("inf")
-            for s in squares:
-                if i-s >= 0:
-                    curr_cnt = 1 + dfs(i-s)
-                    min_cnt = min(min_cnt, curr_cnt)
-            
-            memo[i] = min_cnt
-            return memo[i]
-        
-        result = dfs(n)
-        return result
+        return dp[n]

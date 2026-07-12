@@ -10,8 +10,9 @@ class Solution:
             total_ways = 0
             for num in nums:
                 total_ways += dfs(i-num)
-            
+
             memo[i] = total_ways
             return memo[i]
         
         return dfs(target)
+

@@ -1,11 +1,11 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
-        res = []
-        board = [["."] * n for i in range(n)]
-
         col = set()
         posDiag = set()
         negDiag = set()
+
+        res = []
+        board = [["."] * n for i in range(n)]
 
         def dfs(r):
             if r == n:
@@ -21,12 +21,13 @@ class Solution:
                 posDiag.add(r+c)
                 negDiag.add(r-c)
                 board[r][c] = "Q"
-
+                
                 dfs(r+1)
 
                 col.remove(c)
                 posDiag.remove(r+c)
                 negDiag.remove(r-c)
                 board[r][c] = "."
+
         dfs(0)
         return res

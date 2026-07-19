@@ -13,13 +13,15 @@ class Solution:
                     part.append(s[i:j+1])
                     dfs(j+1)
                     part.pop()
+
         dfs(0)
-        return res            
+        return res
 
     def is_pali(self, s, l, r):
         while l < r:
             if s[l] != s[r]:
                 return False
+            
             l += 1
             r -= 1
         return True

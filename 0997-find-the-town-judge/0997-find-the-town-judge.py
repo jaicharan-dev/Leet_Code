@@ -1,12 +1,8 @@
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
-        
-        if len(trust) < n-1:
-            return -1
-        
         people = [0] * (n+1)
-        
-        for a,b in trust:
+
+        for a, b in trust:
             people[a] -= 1
             people[b] += 1
         

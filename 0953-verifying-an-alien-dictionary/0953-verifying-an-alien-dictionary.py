@@ -9,10 +9,12 @@ class Solution:
             for j in range(min(len(w1), len(w2))):
                 if w1[j] != w2[j]:
                     if alien_dict[w1[j]] > alien_dict[w2[j]]:
-                        return False
+                        return False    
                     break
             
             else:
                 if len(w1) > len(w2):
                     return False
+
         return True
+                

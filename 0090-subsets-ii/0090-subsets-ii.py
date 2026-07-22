@@ -3,7 +3,7 @@ class Solution:
         res = []
         subset = []
         nums.sort()
-
+        
         def dfs(i):
             if i == len(nums):
                 res.append(subset.copy())

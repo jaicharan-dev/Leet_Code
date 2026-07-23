@@ -16,6 +16,7 @@ class Solution:
         dfs(0)
         return res
 
+
     def _is_pali(self, s, i, j):
         while i < j:
             if s[i] != s[j]:

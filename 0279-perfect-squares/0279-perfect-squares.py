@@ -8,12 +8,10 @@ class Solution:
         
         dp = [float("inf")] * (n+1)
         dp[0] = 0
+        
+        for i in range(1, n+1):
+            for s in squares:
+                if i-s >= 0:
+                    dp[i] = min(dp[i], 1+dp[i-s])
 
-        for a in range(1, n+1):
-            for sq in squares:
-                if a - sq >= 0:
-                    dp[a] = min(dp[a], 1 + dp[a-sq])
-                else:
-                    break
-
-        return dp[n]
+        return dp[-1]

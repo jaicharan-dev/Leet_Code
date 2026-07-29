@@ -756,4 +756,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/jaicharan-dev/Leet_Code/tree/master/0895-maximum-frequency-stack) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/jaicharan-dev/Leet_Code/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

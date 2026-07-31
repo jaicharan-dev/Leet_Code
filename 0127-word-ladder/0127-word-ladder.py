@@ -7,7 +7,7 @@ class Solution:
             for i in range(len(word)):
                 pattern = word[:i] + "*" + word[i+1:]
                 adj_list[pattern].append(word)
-        
+
         q = deque([(beginWord, 1)])
         visit = set([beginWord])
 
@@ -22,7 +22,6 @@ class Solution:
                     if neighbor not in visit:
                         visit.add(neighbor)
                         q.append((neighbor, steps+1))
-                
                 adj_list[pattern] = []
         
         return 0

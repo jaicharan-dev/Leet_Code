@@ -11,6 +11,7 @@ class Solution:
                     fresh += 1
                 elif grid[r][c] == 2:
                     queue.append((r,c))
+                    
         directions = [(1,0), (-1,0), (0,1), (0,-1)]
         while queue and fresh:
             time += 1

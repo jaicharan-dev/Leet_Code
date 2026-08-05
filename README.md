@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
+| [0371-sum-of-two-integers](https://github.com/jaicharan-dev/Leet_Code/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/jaicharan-dev/Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search Tree
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/jaicharan-dev/Leet_Code/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/jaicharan-dev/Leet_Code/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
 |  |
 | ------- |

@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/jaicharan-dev/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/jaicharan-dev/Leet_Code/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/jaicharan-dev/Leet_Code/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/jaicharan-dev/Leet_Code/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jaicharan-dev/Leet_Code/tree/master/0079-word-search) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jaicharan-dev/Leet_Code/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jaicharan-dev/Leet_Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jaicharan-dev/Leet_Code/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/jaicharan-dev/Leet_Code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/0136-single-number) |

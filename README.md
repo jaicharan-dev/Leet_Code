@@ -781,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/jaicharan-dev/Leet_Code/tree/master/0584-find-customer-referee) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

@@ -802,4 +802,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jaicharan-dev/Leet_Code/tree/master/0062-unique-paths) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/jaicharan-dev/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

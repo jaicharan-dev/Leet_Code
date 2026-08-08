@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/jaicharan-dev/Leet_Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jaicharan-dev/Leet_Code/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/jaicharan-dev/Leet_Code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaicharan-dev/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jaicharan-dev/Leet_Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0120-triangle](https://github.com/jaicharan-dev/Leet_Code/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaicharan-dev/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0128-longest-consecutive-sequence) |

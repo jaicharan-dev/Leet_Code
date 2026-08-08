@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/jaicharan-dev/Leet_Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/jaicharan-dev/Leet_Code/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/jaicharan-dev/Leet_Code/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaicharan-dev/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jaicharan-dev/Leet_Code/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/jaicharan-dev/Leet_Code/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/jaicharan-dev/Leet_Code/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0070-climbing-stairs) |
@@ -785,4 +787,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/jaicharan-dev/Leet_Code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

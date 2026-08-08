@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/jaicharan-dev/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
 ## Array
 |  |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/jaicharan-dev/Leet_Code/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/jaicharan-dev/Leet_Code/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0931-minimum-falling-path-sum) |
 | [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
 | [0973-k-closest-points-to-origin](https://github.com/jaicharan-dev/Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/jaicharan-dev/Leet_Code/tree/master/0994-rotting-oranges) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
+| [0931-minimum-falling-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/jaicharan-dev/Leet_Code/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |

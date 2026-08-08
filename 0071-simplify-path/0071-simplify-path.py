@@ -1,15 +1,13 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        string = path.split("/")
+        raw_data = path.split('/')
         stack = []
-
-        for char in string:
-            if char == "" or char == ".":
+        for data in raw_data:
+            if data == "" or data == ".":
                 continue
-            elif char == "..":
+            elif data == "..":
                 if stack:
                     stack.pop()
             else:
-                stack.append(char)
-        
+                stack.append(data)
         return "/" + "/".join(stack)

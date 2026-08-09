@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/jaicharan-dev/Leet_Code/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/jaicharan-dev/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0678-valid-parenthesis-string) |
+| [0741-cherry-pickup](https://github.com/jaicharan-dev/Leet_Code/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/jaicharan-dev/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/jaicharan-dev/Leet_Code/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/jaicharan-dev/Leet_Code/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/jaicharan-dev/Leet_Code/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/jaicharan-dev/Leet_Code/tree/master/0846-hand-of-straights) |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
+| [0741-cherry-pickup](https://github.com/jaicharan-dev/Leet_Code/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/jaicharan-dev/Leet_Code/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/jaicharan-dev/Leet_Code/tree/master/1219-path-with-maximum-gold) |

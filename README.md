@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/jaicharan-dev/Leet_Code/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1095-find-in-mountain-array) |
+| [1219-path-with-maximum-gold](https://github.com/jaicharan-dev/Leet_Code/tree/master/1219-path-with-maximum-gold) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaicharan-dev/Leet_Code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1834-single-threaded-cpu](https://github.com/jaicharan-dev/Leet_Code/tree/master/1834-single-threaded-cpu) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/jaicharan-dev/Leet_Code/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/jaicharan-dev/Leet_Code/tree/master/0695-max-area-of-island) |
 | [0931-minimum-falling-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/jaicharan-dev/Leet_Code/tree/master/0994-rotting-oranges) |
+| [1219-path-with-maximum-gold](https://github.com/jaicharan-dev/Leet_Code/tree/master/1219-path-with-maximum-gold) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaicharan-dev/Leet_Code/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Union-Find
 |  |
@@ -776,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jaicharan-dev/Leet_Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jaicharan-dev/Leet_Code/tree/master/0131-palindrome-partitioning) |
+| [1219-path-with-maximum-gold](https://github.com/jaicharan-dev/Leet_Code/tree/master/1219-path-with-maximum-gold) |
 ## Memoization
 |  |
 | ------- |

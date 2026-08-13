@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/jaicharan-dev/Leet_Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/jaicharan-dev/Leet_Code/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/jaicharan-dev/Leet_Code/tree/master/0206-reverse-linked-list) |
+| [0390-elimination-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0394-decode-string) |
 ## Simulation
 |  |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/jaicharan-dev/Leet_Code/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/jaicharan-dev/Leet_Code/tree/master/0390-elimination-game) |
 | [0973-k-closest-points-to-origin](https://github.com/jaicharan-dev/Leet_Code/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search Tree

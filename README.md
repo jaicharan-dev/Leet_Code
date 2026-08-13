@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0767-reorganize-string) |
 | [0953-verifying-an-alien-dictionary](https://github.com/jaicharan-dev/Leet_Code/tree/master/0953-verifying-an-alien-dictionary) |
 | [0981-time-based-key-value-store](https://github.com/jaicharan-dev/Leet_Code/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/1143-longest-common-subsequence) |
 | [1405-longest-happy-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/1405-longest-happy-string) |
 | [1768-merge-strings-alternately](https://github.com/jaicharan-dev/Leet_Code/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaicharan-dev/Leet_Code/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/1463-cherry-pickup-ii) |
 ## Array
@@ -824,4 +826,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/jaicharan-dev/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

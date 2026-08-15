@@ -1,19 +1,22 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        if sum(nums) % 2 == 1:
+        total = sum(nums)
+        if total % 2 != 0:
             return False
+        half = total // 2
 
-        half = sum(nums) // 2 
-        dp = {0}
-
+        dp = set([0])
         for num in nums:
-            next_dp = set()
-            for curr_sum in dp:
-                new_sum = curr_sum + num
-                next_dp.add(curr_sum)
-                if new_sum == half: return True
-                if new_sum < half: next_dp.add(new_sum)
-            
-            dp = next_dp
+            new_dp = set()
+            for prev_num in dp:
+                new_num = prev_num + num
+                if new_num == half:
+                    return True
+                new_dp.add(prev_num)
+                if new_num < half:
+                    new_dp.add(new_num)
+            dp = new_dp
         
-        return half in dp
+        return False
+            
+                

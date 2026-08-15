@@ -847,4 +847,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0416-partition-equal-subset-sum) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/jaicharan-dev/Leet_Code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

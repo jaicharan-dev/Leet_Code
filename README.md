@@ -837,9 +837,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->

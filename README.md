@@ -851,4 +851,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jaicharan-dev/Leet_Code/tree/master/0139-word-break) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jaicharan-dev/Leet_Code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

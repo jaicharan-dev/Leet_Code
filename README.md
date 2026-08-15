@@ -835,9 +835,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

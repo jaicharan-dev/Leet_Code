@@ -1,20 +1,21 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        if len(nums) == 1: return nums[0]
-        rob1 = self.dp(nums[:-1])
-        rob2 = self.dp(nums[1:])
+        pattern1 = self._max_money(nums[:-1])
+        pattern2 = self._max_money(nums[1:])
+        pattern3 = nums[0] 
+        return max(pattern1, pattern2, pattern3)
 
-        return max(rob1, rob2)
+    def _max_money(self, arr):
+        memo = [float("-inf")] * len(arr)
 
-    def dp(self, houses):
-        if len(houses) == 1: return houses[0]
-        if len(houses) == 2: return max(houses[0], houses[1])
+        def dfs(i):
+            if i == -2 or i == -1:
+                return 0
 
-        two_back, one_back = houses[0], max(houses[0], houses[1])
-
-        for i in range(2, len(houses)):
-            curr = max(two_back + houses[i], one_back)
-            two_back = one_back
-            one_back = curr
+            if memo[i] != float("-inf"):
+                return memo[i]
+            
+            memo[i] = max(dfs(i-2) + arr[i], dfs(i-1))
+            return memo[i]
         
-        return one_back
+        return dfs(len(arr)-1)

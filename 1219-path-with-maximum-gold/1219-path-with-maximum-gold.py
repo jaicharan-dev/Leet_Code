@@ -1,29 +1,25 @@
 class Solution:
     def getMaximumGold(self, grid: List[List[int]]) -> int:
-        m = len(grid)
-        n = len(grid[0])
-
+        m, n = len(grid), len(grid[0])
+        directions = ((0,1), (0,-1), (1,0), (-1,0))
         def dfs(r, c):
-            if not (0 <= r < m) or not (0 <= c < n) or grid[r][c] == 0:
+            if r < 0 or r >= m or c < 0 or c >= n or grid[r][c] == 0:
                 return 0
-            
-            current_gold = grid[r][c]
+
+            curr_gold = grid[r][c]
             grid[r][c] = 0
 
-            max_from_neighbors = 0
-            directions = [(0,1), (1, 0), (0, -1), (-1, 0)]
+            neighbor_gold = 0
             for dr, dc in directions:
-                max_from_neighbors = max(max_from_neighbors, dfs(r+dr, c+dc))            
-            grid[r][c] = current_gold
+                neighbor_gold = max(neighbor_gold, dfs(r+dr, c+dc))
+            grid[r][c] = curr_gold
 
-            return current_gold + max_from_neighbors
-                
+            return curr_gold + neighbor_gold
+        
         max_gold = 0
         for r in range(m):
             for c in range(n):
                 if grid[r][c] > 0:
-                    max_gold = max(max_gold, dfs(r, c))
-            
+                    max_gold = max(dfs(r,c), max_gold)
+
         return max_gold
-
-

@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/jaicharan-dev/Leet_Code/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaicharan-dev/Leet_Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/jaicharan-dev/Leet_Code/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jaicharan-dev/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0678-valid-parenthesis-string) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/jaicharan-dev/Leet_Code/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/jaicharan-dev/Leet_Code/tree/master/0474-ones-and-zeroes) |
 | [0576-out-of-boundary-paths](https://github.com/jaicharan-dev/Leet_Code/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/jaicharan-dev/Leet_Code/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/jaicharan-dev/Leet_Code/tree/master/0678-valid-parenthesis-string) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0427-construct-quad-tree](https://github.com/jaicharan-dev/Leet_Code/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/jaicharan-dev/Leet_Code/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/jaicharan-dev/Leet_Code/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/jaicharan-dev/Leet_Code/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/jaicharan-dev/Leet_Code/tree/master/0502-ipo) |
 | [0560-subarray-sum-equals-k](https://github.com/jaicharan-dev/Leet_Code/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/jaicharan-dev/Leet_Code/tree/master/0621-task-scheduler) |
@@ -844,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/jaicharan-dev/Leet_Code/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/jaicharan-dev/Leet_Code/tree/master/0474-ones-and-zeroes) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/jaicharan-dev/Leet_Code/tree/master/0474-ones-and-zeroes) |
 ## Brute-Force Search
 |  |
 | ------- |

@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/jaicharan-dev/Leet_Code/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/jaicharan-dev/Leet_Code/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/jaicharan-dev/Leet_Code/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/jaicharan-dev/Leet_Code/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/jaicharan-dev/Leet_Code/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/jaicharan-dev/Leet_Code/tree/master/0997-find-the-town-judge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaicharan-dev/Leet_Code/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/jaicharan-dev/Leet_Code/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/1049-last-stone-weight-ii) |
 | [1094-car-pooling](https://github.com/jaicharan-dev/Leet_Code/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/jaicharan-dev/Leet_Code/tree/master/1095-find-in-mountain-array) |
 | [1219-path-with-maximum-gold](https://github.com/jaicharan-dev/Leet_Code/tree/master/1219-path-with-maximum-gold) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jaicharan-dev/Leet_Code/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/jaicharan-dev/Leet_Code/tree/master/0474-ones-and-zeroes) |
+| [1049-last-stone-weight-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/jaicharan-dev/Leet_Code/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/jaicharan-dev/Leet_Code/tree/master/0474-ones-and-zeroes) |
+| [1049-last-stone-weight-ii](https://github.com/jaicharan-dev/Leet_Code/tree/master/1049-last-stone-weight-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
